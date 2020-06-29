@@ -1,7 +1,7 @@
 {
-  "name": "node-examples",
+  "name": "node-http",
   "version": "1.0.0",
-  "description": "Simple Node Examples",
+  "description": "Node HTTP Module Example",
   "main": "index.js",
   "scripts": {
     "start": "node index",
